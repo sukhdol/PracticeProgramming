@@ -6,7 +6,7 @@ namespace PracticeProgramming
     {
         static void Main(string[] args)
         {
-            MultiplesOf3And5.SolveProblem();
+            EvenFibonacciNumbers.SolveProblem();
         }
     }
 }
