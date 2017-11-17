@@ -1,4 +1,4 @@
-﻿using System;
+﻿using PracticeProgramming.ProjectEuler;
 
 namespace PracticeProgramming
 {
@@ -6,7 +6,7 @@ namespace PracticeProgramming
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MultiplesOf3And5.SolveProblem();
         }
     }
 }
