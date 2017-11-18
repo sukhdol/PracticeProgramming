@@ -6,7 +6,7 @@ namespace PracticeProgramming
     {
         static void Main(string[] args)
         {
-            LargestPalindromeProduct.SolveProblem();
+            SmallestMultiple.SolveProblem();
         }
     }
 }
