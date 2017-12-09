@@ -6,7 +6,7 @@ namespace PracticeProgramming
     {
         static void Main(string[] args)
         {
-            PrimeNumber10001.SolveProblem();
+            LargestProductInASeries.SolveProblem();
         }
     }
 }
