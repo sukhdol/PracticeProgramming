@@ -35,7 +35,6 @@ namespace PracticeProgramming.ProjectEuler
             }
 
             Console.WriteLine(greatestProduct);
-            Console.WriteLine(currentIndex);
         }
 
     }
